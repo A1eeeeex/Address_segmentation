@@ -64,7 +64,4 @@ python train.py
 ```
 python predict.py
 ```
-运行predict文件，按提示输入句子，按ctrl+c推出，如下图所示，模型也支持局部输入
-
-![f1](figure1.png)"# Address_segmentation" 
-"# Address_segmentation" 
+运行predict文件，按提示输入句子，按ctrl+c退出
